@@ -184,6 +184,7 @@ header h1 {
 .answer {
   width: 90%;
   margin: 0 auto;
+  list-style: none;
 }
 
 .answer button {
